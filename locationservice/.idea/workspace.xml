@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e865ef9-5ec7-4bde-b67d-7f8d5a5f0bda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AccountService/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/AccountRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccountService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EurekaService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EurekaService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -295,7 +284,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546992316988" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546994045248" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -380,12 +369,12 @@
       <workItem from="1540084124730" duration="1000000" />
       <workItem from="1540091272845" duration="6753000" />
       <workItem from="1540244432858" duration="1436000" />
-      <workItem from="1546992272572" duration="44000" />
+      <workItem from="1546992272572" duration="616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9233000" />
+    <option name="totallyTimeSpent" value="9805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />

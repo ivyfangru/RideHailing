@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5752f90c-923d-4a28-9b42-af0ed8521236" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AccountService/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/AccountRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/java/springcloud/accountservice/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccountService/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccountService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountService/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../locationservice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../locationservice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../locationservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../locationservice/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +75,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="270">
               <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
             </state>
           </provider>
@@ -193,7 +182,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546992316934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546994045210" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -266,12 +255,12 @@
       <updated>1540083499435</updated>
       <workItem from="1540083501015" duration="1487000" />
       <workItem from="1540245251175" duration="657000" />
-      <workItem from="1546992080364" duration="236000" />
+      <workItem from="1546992080364" duration="731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1579000" />
+    <option name="totallyTimeSpent" value="2074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -330,7 +319,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="270">
           <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
         </state>
       </provider>

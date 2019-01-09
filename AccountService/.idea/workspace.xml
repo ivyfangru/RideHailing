@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d90ffb7-8051-4e78-8048-abe02bae8d1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springcloud/accountservice/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springcloud/accountservice/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springcloud/accountservice/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springcloud/accountservice/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springcloud/accountservice/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springcloud/accountservice/AccountRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springcloud/accountservice/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springcloud/accountservice/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EurekaService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EurekaService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../locationservice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../locationservice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../locationservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../locationservice/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7d90ffb7-8051-4e78-8048-abe02bae8d1e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +13,7 @@
     <session id="1756894367">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -297,16 +284,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546991929418</updated>
-      <workItem from="1546991932402" duration="383000" />
+      <workItem from="1546991932402" duration="428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="383000" />
+    <option name="totallyTimeSpent" value="428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
