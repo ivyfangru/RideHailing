@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d90ffb7-8051-4e78-8048-abe02bae8d1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EurekaService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EurekaService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaService/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../locationservice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../locationservice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../locationservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../locationservice/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +16,7 @@
     <session id="1756894367">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -303,6 +299,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
